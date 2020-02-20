@@ -1,0 +1,1 @@
+console.log (`Don't doubt yourself. You will get it. It just takes time.`);
